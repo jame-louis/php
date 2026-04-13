@@ -1,0 +1,16 @@
+import{_ as r}from"./slidev/CodeBlockWrapper.vue_vue_type_script_setup_true_lang-DCVh4XV_.js";import{o as k,b as h,w as e,g as s,G as i,d as o,m as d,v as A,x as D,z as l}from"./modules/vue-CzfQoA5F.js";import{I as g}from"./slidev/default-D23u2fVC.js";import{u as c,f as m}from"./slidev/context-CBe4gu7h.js";import"./modules/unplugin-icons-DKmJuVTV.js";import"./index-aw_wPr88.js";import"./modules/shiki-Bn-LvZSj.js";const $={__name:"slides.md__slidev_26",setup(y){const{$clicksContext:t,$frontmatter:n}=c();return t.setup(),(f,a)=>{const p=r;return k(),h(g,A(D(l(m)(l(n),25))),{default:e(()=>[a[1]||(a[1]=s("h2",null,"PHP接收上传文件",-1)),a[2]||(a[2]=s("p",null,[i("上传的文件保存在 "),s("code",null,"$_FILES"),i(" 超全局数组中：")],-1)),o(p,d({lines:!0,maxHeight:"400px"},{title:"",ranges:["*"]}),{default:e(()=>[...a[0]||(a[0]=[s("pre",{class:"shiki shiki-themes vitesse-dark vitesse-light slidev-code",style:{"--shiki-dark":"#dbd7caee","--shiki-light":"#393a34","--shiki-dark-bg":"#121212","--shiki-light-bg":"#ffffff"}},[s("code",{class:"language-php"},[s("span",{class:"line"},[s("span",{style:{"--shiki-dark":"#CB7676","--shiki-light":"#AB5959"}},"<?"),s("span",{style:{"--shiki-dark":"#C99076","--shiki-light":"#A65E2B"}},"php")]),i(`
+`),s("span",{class:"line"},[s("span",{style:{"--shiki-dark":"#758575DD","--shiki-light":"#A0ADA0"}},"// 查看上传文件信息")]),i(`
+`),s("span",{class:"line"}),i(`
+`),s("span",{class:"line"},[s("span",{style:{"--shiki-dark":"#B8A965","--shiki-light":"#998418"}},"print_r"),s("span",{style:{"--shiki-dark":"#666666","--shiki-light":"#999999"}},"($"),s("span",{style:{"--shiki-dark":"#BD976A","--shiki-light":"#B07D48"}},"_FILES"),s("span",{style:{"--shiki-dark":"#666666","--shiki-light":"#999999"}},");")]),i(`
+`),s("span",{class:"line"}),i(`
+`),s("span",{class:"line"},[s("span",{style:{"--shiki-dark":"#758575DD","--shiki-light":"#A0ADA0"}},"// 输出示例：")]),i(`
+`),s("span",{class:"line"},[s("span",{style:{"--shiki-dark":"#758575DD","--shiki-light":"#A0ADA0"}},"// Array (")]),i(`
+`),s("span",{class:"line"},[s("span",{style:{"--shiki-dark":"#758575DD","--shiki-light":"#A0ADA0"}},"//     [avatar] => Array (")]),i(`
+`),s("span",{class:"line"},[s("span",{style:{"--shiki-dark":"#758575DD","--shiki-light":"#A0ADA0"}},"//         [name] => photo.jpg")]),i(`
+`),s("span",{class:"line"},[s("span",{style:{"--shiki-dark":"#758575DD","--shiki-light":"#A0ADA0"}},"//         [type] => image/jpeg")]),i(`
+`),s("span",{class:"line"},[s("span",{style:{"--shiki-dark":"#758575DD","--shiki-light":"#A0ADA0"}},"//         [tmp_name] => /tmp/phpXX.tmp")]),i(`
+`),s("span",{class:"line"},[s("span",{style:{"--shiki-dark":"#758575DD","--shiki-light":"#A0ADA0"}},"//         [error] => 0")]),i(`
+`),s("span",{class:"line"},[s("span",{style:{"--shiki-dark":"#758575DD","--shiki-light":"#A0ADA0"}},"//         [size] => 123456")]),i(`
+`),s("span",{class:"line"},[s("span",{style:{"--shiki-dark":"#758575DD","--shiki-light":"#A0ADA0"}},"//     )")]),i(`
+`),s("span",{class:"line"},[s("span",{style:{"--shiki-dark":"#758575DD","--shiki-light":"#A0ADA0"}},"// )")]),i(`
+`),s("span",{class:"line"},[s("span",{style:{"--shiki-dark":"#CB7676","--shiki-light":"#AB5959"}},"?>")])])],-1)])]),_:1},16)]),_:1},16)}}};export{$ as default};
