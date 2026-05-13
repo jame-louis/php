@@ -1,0 +1,9 @@
+import{B as e,C as t,D as n,Q as r,S as i,_t as a,v as o,y as s,yt as c}from"./modules/shiki-DDmem7rx.js";import{n as l,t as u}from"./slidev/context-CasOHWMF.js";import{t as d}from"./slidev/default-DB97NYgi.js";import{t as f}from"./slidev/CodeBlockWrapper-CtOTSI0f.js";var p={__name:`slides.md__slidev_18`,setup(p){let{$slidev:m,$nav:h,$clicksContext:g,$clicks:_,$page:v,$renderContext:y,$frontmatter:b}=l();return g.setup(),(l,p)=>{let m=f;return e(),s(d,c(n(a(u)(a(b),17))),{default:r(()=>[p[1]||=o(`h2`,null,`删除Session数据`,-1),p[2]||=o(`p`,null,[o(`strong`,null,`费曼解释`),i(`：`),o(`code`,null,`unset()`),i(` 是"清空储物柜里的某个物品"，`),o(`code`,null,`session_destroy()`),i(` 是"退租整个储物柜"`)],-1),t(m,{title:``,ranges:[]},{default:r(()=>[...p[0]||=[o(`pre`,{class:`shiki shiki-themes vitesse-dark vitesse-light slidev-code`,style:{"--shiki-dark":`#dbd7caee`,"--shiki-light":`#393a34`,"--shiki-dark-bg":`#121212`,"--shiki-light-bg":`#ffffff`}},[o(`code`,{class:`language-text`},[o(`span`,{class:`line`},[o(`span`,null,`unset($_SESSION['count'])          session_destroy()`)]),i(`
+`),o(`span`,{class:`line`},[o(`span`,null,`━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━`)]),i(`
+`),o(`span`,{class:`line`},[o(`span`)]),i(`
+`),o(`span`,{class:`line`},[o(`span`,null,`  储物柜 #001                        储物柜 #001`)]),i(`
+`),o(`span`,{class:`line`},[o(`span`,null,`  ├─ count: ❌ 删除                 ├─ count: 全部清空`)]),i(`
+`),o(`span`,{class:`line`},[o(`span`,null,`  ├─ username: 保留                  ├─ username: 清空`)]),i(`
+`),o(`span`,{class:`line`},[o(`span`,null,`  └─ cart: 保留                      └─ cart: 清空`)]),i(`
+`),o(`span`,{class:`line`},[o(`span`)]),i(`
+`),o(`span`,{class:`line`},[o(`span`,null,`  🔑 钥匙还有效                      🗑️ 钥匙失效，柜子收回`)])])],-1)]]),_:1})]),_:1},16)}}};export{p as default};
